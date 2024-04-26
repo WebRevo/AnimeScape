@@ -1,0 +1,18 @@
+{
+  "repository": "https://github.com/webrevo/Animescape",
+  "author": {
+    "name": "Sarathi S",
+    "email": "sarathi2021ai@gmail.com"
+  },
+  
+  "dependencies": {
+    "ammo.js": "^0.0.10",
+    "ammojs-typed": "^1.0.6",
+    "cannon": "^0.6.2",
+    "three": "^0.151.3",
+    "three-stdlib": "^2.21.8"
+  },
+  "devDependencies": {
+    "vite": "^4.3.1"
+  }
+}
